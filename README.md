@@ -2,4 +2,4 @@
 
 Este projeto é o resultado de um exercício guiado.
 
--Rivaldo Soares do Nascimento.
+- Rivaldo Soares do Nascimento.
