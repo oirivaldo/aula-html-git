@@ -1,4 +1,4 @@
-#Aula Git em HTML - Soluções para Internet e Tecnologias Web
+# Aula Git em HTML - Soluções para Internet e Tecnologias Web
 
 Este projeto é o resultado de um exercício guiado.
 
